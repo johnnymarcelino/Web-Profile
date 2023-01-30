@@ -1,2 +1,2 @@
 # My Profile
- Projeto de site criado com curso em video de Git e GitHub
+ Meu site do perfil para recrutadores ou interessados em meu trabalho, que estejam com curiosidade de conhener um pouco mais do meu trabalho com desenvolvedor.
