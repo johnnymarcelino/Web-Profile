@@ -6,4 +6,4 @@
  
  Sinto-me honrado em compartilhar minha jornada com você e espero que você possa aprender mais sobre mim. 
  
- Visite meu site [johnnyprofile.html] para saber mais!.
+ Visite meu site [https://johnnymarcelino.github.io/Web-Profile] para saber mais!.
