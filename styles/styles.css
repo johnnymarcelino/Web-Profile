@@ -938,7 +938,15 @@ section {
     font-size: 4rem;
   }
 }
-/* * {
+
+
+
+
+
+
+
+
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -1041,7 +1049,7 @@ section {
     }
 }
 
-//Controls
+/* //Controls */
 .controlls {
     position: fixed;
     z-index: 10;
@@ -1052,7 +1060,7 @@ section {
     align-items: center;
     justify-content: center;
     transform: translateY(-50%);
-
+}
     .active-btn {
         background-color: var(--color-secondary) !important;
         transition: all .4s ease-in-out;
@@ -1085,11 +1093,11 @@ section {
 
 
 /*Header-content*/
-/*.header-content {
+.header-content {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     height: 100%;
-
+}
     .left-header {
         display: flex;
         align-items: center;
@@ -1152,7 +1160,7 @@ section {
 }
 
 /*about*/
-/*.about-container {
+.about-container {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     padding-top: 3, 5rem;
@@ -1168,6 +1176,7 @@ section {
             border-radius: 5px;
             transition: all .4s ease-in-out;
             box-shadow: 1px 2px 15px rgba(0, 0, 0, .1);
+            
 
             &:hover {
                 cursor: default;
@@ -1229,7 +1238,7 @@ section {
 }
 
 /*Independed components*/
-/*.btn-con {
+.btn-con {
     display: flex;
     align-self: flex-start;
 }
@@ -1305,4 +1314,5 @@ section {
             font-size: 6.3rem;
         }
     }
-} *//*# sourceMappingURL=styles.css.map */
+}  
+/* // # sourceMappingURL=styles.css.map */
